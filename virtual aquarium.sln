@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtual aquarium", "virtual aquarium.csproj", "{BA5EC6B3-F3B8-4C38-AE8C-C3227887E9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appTest_VirtualAquarium", "..\appTest_VirtualAquarium\appTest_VirtualAquarium.csproj", "{6A75C368-FADB-447E-90AA-FB8A37BC0991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5EC6B3-F3B8-4C38-AE8C-C3227887E9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5EC6B3-F3B8-4C38-AE8C-C3227887E9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5EC6B3-F3B8-4C38-AE8C-C3227887E9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5EC6B3-F3B8-4C38-AE8C-C3227887E9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A75C368-FADB-447E-90AA-FB8A37BC0991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A75C368-FADB-447E-90AA-FB8A37BC0991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A75C368-FADB-447E-90AA-FB8A37BC0991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A75C368-FADB-447E-90AA-FB8A37BC0991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE978968-633F-448D-8707-64001DE64E51}
+	EndGlobalSection
+EndGlobal

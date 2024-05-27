@@ -1,0 +1,53 @@
+C:\Users\Никита\source\repos\virtual aquarium\bin\Debug\virtual aquarium.exe.config
+C:\Users\Никита\source\repos\virtual aquarium\bin\Debug\virtual aquarium.exe
+C:\Users\Никита\source\repos\virtual aquarium\bin\Debug\virtual aquarium.pdb
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\MainWindow.g.cs
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\App.g.cs
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium_MarkupCompile.cache
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium_MarkupCompile.lref
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\MainWindow.baml
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.g.resources
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual_aquarium.Properties.Resources.resources
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.exe
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.pdb
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\App.baml
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\Parameters.g.cs
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\Parameters.baml
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\Parameters1.g.cs
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\Parameters1.baml
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\Screensaver.g.cs
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\Screensaver.baml
+C:\Users\Никита\source\repos\virtual aquarium\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Никита\source\repos\virtual aquarium\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Никита\source\repos\virtual aquarium\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Никита\source\repos\virtual aquarium\obj\Debug\virtual aquarium.csproj.CopyComplete
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\bin\Debug\virtual aquarium.exe.config
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\bin\Debug\virtual aquarium.exe
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\bin\Debug\virtual aquarium.pdb
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\bin\Debug\WpfAnimatedGif.dll
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\bin\Debug\WpfAnimatedGif.xml
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium.csproj.AssemblyReference.cache
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\MainWindow.baml
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\MainWindow.g.cs
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\Parameters.g.cs
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\Parameters1.g.cs
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\Screensaver.g.cs
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\App.g.cs
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium_MarkupCompile.cache
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium_MarkupCompile.lref
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\App.baml
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\Parameters.baml
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\Parameters1.baml
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\Screensaver.baml
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium.g.resources
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual_aquarium.Properties.Resources.resources
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium.csproj.GenerateResource.cache
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium.csproj.CoreCompileInputs.cache
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual .907F5C5F.Up2Date
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium.exe
+C:\Users\27070\OneDrive\Рабочий стол\Virtual aquarium\obj\Debug\virtual aquarium.pdb
